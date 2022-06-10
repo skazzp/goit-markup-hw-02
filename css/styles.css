@@ -81,6 +81,7 @@ body {
     line-height: 1.88;
     text-align: center;
     letter-spacing: 0.06em;
+    cursor: pointer;
 }
 /* .team {
     background-color: var(--bg-sec);
@@ -139,6 +140,7 @@ body {
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
+    cursor: pointer;
 } 
 .filter-current {
     font-family: inherit;
@@ -148,6 +150,7 @@ body {
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
+    cursor: pointer;
 }
  .project {
     color: var(--color-secondary);
