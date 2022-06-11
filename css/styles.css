@@ -52,9 +52,13 @@ body {
     letter-spacing: 0.02em;
     text-decoration: none;
 }
+.current,
 .nav-link:focus,
 .nav-link:hover,
-.current {
+.footer-addr:hover, 
+.footer-addr:focus, 
+.footer-cont:hover, 
+.footer-cont:focus {
     color: var(--menu-sec-color);
 }
 .nav-contact {
