@@ -146,17 +146,11 @@ body {
     text-align: center;
     cursor: pointer;
 } 
-.filter-current {
-    font-family: inherit;
+.filter-button:hover, .filter-button:focus {
     color: var(--main-header);
     background-color: var(--bg-button);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    text-align: center;
-    cursor: pointer;
 }
- .project {
+.project {
     color: var(--color-secondary);
     font-size: 16px;
     line-height: 1.88;
